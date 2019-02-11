@@ -1,4 +1,4 @@
-Hello world, 
-this is the something file
+Creating a something file
 
-Added new lines to practise git commands
+making changes to the file
+
